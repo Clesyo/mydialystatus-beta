@@ -1,0 +1,12 @@
+node_modules/
+## Zeit  ##
+.now
+now.json
+.next
+
+## My Daily Status ##
+.env
+
+### Firebase ###
+firebase-secret.json
+
